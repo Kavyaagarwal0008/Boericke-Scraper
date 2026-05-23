@@ -149,4 +149,8 @@ boericke-scraper/
 ---
 
 *Built for jarvis.care — AI-powered clinical assistant for homeopathic practitioners.*
+---
+
+## Author
+Kavya Agarwal - B.Tech CSE- AIML (GL Bajaj Institute of Technology and Management)
 #
